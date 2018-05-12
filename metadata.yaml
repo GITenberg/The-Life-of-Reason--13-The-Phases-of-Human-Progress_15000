@@ -1,0 +1,32 @@
+_repo: The-Life-of-Reason--13-The-Phases-of-Human-Progress_15000
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Santayana, George
+    aliases:
+    - Santayana, Jorge
+    - Santayana, Georgius
+    birthdate: 1863
+    deathdate: 1952
+    gutenberg_agent_id: '5805'
+    url: http://www.gutenberg.org/2009/agents/5805
+    wikipedia: http://en.wikipedia.org/wiki/George_Santayana
+description: ''
+gutenberg_issued: '2005-02-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15000'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'B'
+- !lcsh 'Philosophy'
+tableOfContents: Introduction -- v. 1. Reason in common sense -- v. 2. Reason in society
+  -- v. 3. Reason in religion -- v. 4. Reason in art -- v. 5. Reason in science.
+title: 'The Life of Reason: The Phases of Human Progress'
+url: http://www.gutenberg.org/ebooks/15000
