@@ -28,6 +28,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'B'
 - !lcsh 'Philosophy'
+- GITenberg
 tableOfContents: Introduction -- v. 1. Reason in common sense -- v. 2. Reason in society
   -- v. 3. Reason in religion -- v. 4. Reason in art -- v. 5. Reason in science.
 title: 'The Life of Reason: The Phases of Human Progress'
